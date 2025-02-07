@@ -1,0 +1,28 @@
+{
+  "buildFiles": [
+    "C:\\Users\\Sameer Ahmed\\Desktop\\mergere\\FruitXreme\\Library\\Bee\\Android\\Prj\\Mono2x\\Gradle\\unityLibrary\\src\\main\\cpp\\CMakeLists.txt",
+    "C:\\Users\\Sameer Ahmed\\Desktop\\mergere\\FruitXreme\\Library\\Bee\\Android\\Prj\\Mono2x\\Gradle\\unityLibrary\\src\\main\\cpp\\FramePacing\\CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "F:\\Unity Editor\\6000.0.31f1\\Editor\\Data\\PlaybackEngines\\AndroidPlayer\\SDK\\cmake\\3.22.1\\bin\\ninja.exe",
+      "-C",
+      "C:\\Users\\Sameer Ahmed\\Desktop\\mergere\\FruitXreme\\.utmp\\RelWithDebInfo\\384k646z\\armeabi-v7a",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "F:\\Unity Editor\\6000.0.31f1\\Editor\\Data\\PlaybackEngines\\AndroidPlayer\\SDK\\cmake\\3.22.1\\bin\\ninja.exe",
+    "-C",
+    "C:\\Users\\Sameer Ahmed\\Desktop\\mergere\\FruitXreme\\.utmp\\RelWithDebInfo\\384k646z\\armeabi-v7a",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {
+    "swappywrapper::@7e25bd1f32ce224db4e9": {
+      "artifactName": "swappywrapper",
+      "abi": "armeabi-v7a",
+      "output": "C:\\Users\\Sameer Ahmed\\Desktop\\mergere\\FruitXreme\\Library\\Bee\\Android\\Prj\\Mono2x\\Gradle\\unityLibrary\\build\\intermediates\\cxx\\RelWithDebInfo\\384k646z\\obj\\armeabi-v7a\\libswappywrapper.so",
+      "runtimeFiles": []
+    }
+  }
+}
